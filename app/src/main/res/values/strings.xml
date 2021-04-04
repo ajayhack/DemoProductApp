@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DemoProductApp</string>
+    <string name="cancel">Show Product</string>
+    <string name="confirm">Create Product</string>
+    <string name="back">Back Button</string>
+    <string name="dashboard">ToolBar</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="sale_price">Sale Price</string>
+    <string name="regular_price">Regular Price</string>
+    <string name="description">Description</string>
+    <string name="capture_product_image_text">Capture Product Image</string>
+    <string name="product_image">Product Image</string>
+    <string name="available_colors">Select Color</string>
+    <string name="black">Black</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="select_stores">Select Stores</string>
+    <string name="storeOne">Store 1</string>
+    <string name="storeTwo">Store 2</string>
+    <string name="storeThree">Store 3</string>
+    <string name="storeFour">Store 4</string>
+    <string name="createProduct">Create Product</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="products">Products</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="close">Close</string>
+    <string name="update_product">Update Product</string>
+</resources>

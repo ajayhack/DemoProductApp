@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad_8">8dp</dimen>
+    <dimen name="pad_16">16dp</dimen>
+    <dimen name="text_size_xregular">18sp</dimen>
+    <dimen name="pad_4">4dp</dimen>
+    <dimen name="text_size_regular">16sp</dimen>
+    <dimen name="pad_10">10dp</dimen>
+    <dimen name="imageView40dp">40dp</dimen>
+    <dimen name="text_size_xsmall">14sp</dimen>
+</resources>

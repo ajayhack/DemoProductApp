@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/pad_8">
+
+        <ImageView
+            android:id="@+id/productImage"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/product_image"
+            android:padding="@dimen/pad_4"
+            android:src="@drawable/ic_placeholder" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/cancelDialog"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_marginTop="@dimen/pad_8"
+            android:layout_marginBottom="@dimen/pad_8"
+            android:background="@color/colorBlue"
+            android:padding="@dimen/pad_4"
+            android:text="@string/close"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
